@@ -29,3 +29,5 @@ Cách chạy tại chế độ production:
 5. Chạy dự án: npm run preview
 
 # bookshop-fe
+# Test-admin: 
+TK-MK: admin@gmail.com-123456
