@@ -31,3 +31,5 @@ Cách chạy tại chế độ production:
 # bookshop-fe
 # Test-admin: 
 TK-MK: admin@gmail.com-123456
+
+# Deploy Backend bằng công nghệ Render nên có tình trạng sẽ ngủ đông, anh chị có thể chờ tý ạ. Em cảm ơn ^^
